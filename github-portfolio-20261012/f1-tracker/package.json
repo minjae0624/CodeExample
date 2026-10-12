@@ -1,0 +1,22 @@
+{
+  "name": "f1-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A full Formula 1 tracking website — live timing, standings, calendar and results, powered by the Jolpica (Ergast) and OpenF1 APIs.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "flag-icons": "^7.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.8"
+  }
+}
